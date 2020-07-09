@@ -1,0 +1,11 @@
+{
+ 'id': id,
+      'name': name,
+      'mass': mass,
+      'hair_color': hairColor,
+      'skin_color': skinColor,
+      'eye_color': eyeColor,
+      'birth_year': birthDate,
+      'height': height,
+      'gender': gender
+}
